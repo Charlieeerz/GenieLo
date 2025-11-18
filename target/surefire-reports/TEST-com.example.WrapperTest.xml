@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="FR"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-25-openjdk/lib"/>
-    <property name="sun.java.command" value="/home/chlrz/Documents/UNIGE/Cours/GenieLo/TP7/Patterns/target/surefire/surefirebooter-20251118172312071_3.jar /home/chlrz/Documents/UNIGE/Cours/GenieLo/TP7/Patterns/target/surefire 2025-11-18T17-23-11_440-jvmRun1 surefire-20251118172312071_1tmp surefire_0-20251118172312071_2tmp"/>
+    <property name="sun.java.command" value="/home/chlrz/Documents/UNIGE/Cours/GenieLo/TP7/Patterns/target/surefire/surefirebooter-20251118175458340_3.jar /home/chlrz/Documents/UNIGE/Cours/GenieLo/TP7/Patterns/target/surefire 2025-11-18T17-54-58_267-jvmRun1 surefire-20251118175458340_1tmp surefire_0-20251118175458340_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/chlrz/Documents/UNIGE/Cours/GenieLo/TP7/Patterns/target/test-classes:/home/chlrz/Documents/UNIGE/Cours/GenieLo/TP7/Patterns/target/classes:/home/chlrz/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/home/chlrz/.m2/repository/org/junit/jupiter/junit-jupiter/5.11.0/junit-jupiter-5.11.0.jar:/home/chlrz/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.11.0/junit-jupiter-api-5.11.0.jar:/home/chlrz/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/home/chlrz/.m2/repository/org/junit/platform/junit-platform-commons/1.11.0/junit-platform-commons-1.11.0.jar:/home/chlrz/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/chlrz/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.11.0/junit-jupiter-params-5.11.0.jar:/home/chlrz/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.11.0/junit-jupiter-engine-5.11.0.jar:/home/chlrz/.m2/repository/org/junit/platform/junit-platform-engine/1.11.0/junit-platform-engine-1.11.0.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -27,7 +27,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/home/chlrz/Documents/UNIGE/Cours/GenieLo/TP7/Patterns/target/surefire/surefirebooter-20251118172312071_3.jar"/>
+    <property name="surefire.real.class.path" value="/home/chlrz/Documents/UNIGE/Cours/GenieLo/TP7/Patterns/target/surefire/surefirebooter-20251118175458340_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="25.0.1"/>
     <property name="user.name" value="chlrz"/>
