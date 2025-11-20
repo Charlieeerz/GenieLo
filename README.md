@@ -9,4 +9,4 @@ mvn compile
 mvn test
 ```
 
-Test des 3 patterns (Singleton, Abstract Factory, Wrapper) appliqués dans le cadre de UnigeEvent.
+Test des 3 patterns (Decorator, Flyweight, template method) appliqués dans le cadre de UnigeEvent.
